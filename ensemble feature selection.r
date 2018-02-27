@@ -2,11 +2,9 @@
 # install.packages("fscaret", dependencies = c("Depends", "Suggests"))
 
 library(fscaret)
-
 # list of models fscaret supports:
 data(funcRegPred)
 # funcRegPred
-
 library(caret)
 # list of models caret supports:
 # names(getModelInfo())
