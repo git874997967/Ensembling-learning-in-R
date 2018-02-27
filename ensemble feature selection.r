@@ -1,6 +1,5 @@
 # warning: could take over an hour to install all models the first time you install the fscaret package
 # install.packages("fscaret", dependencies = c("Depends", "Suggests"))
-
 library(fscaret)
 # list of models fscaret supports:
 data(funcRegPred)
